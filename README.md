@@ -1,5 +1,5 @@
-# deep_learning_architecture
-Image classifier that will predict what style of architecture a building is influenced by
+# Deep Learning Architecture
+Image classifier that will predict what style of architecture a building is influenced by. It is my intent to use this as a benchmark to try different modesls and libraries for training.
 
 # Problem Statement
 
