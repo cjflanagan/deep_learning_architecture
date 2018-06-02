@@ -7,8 +7,9 @@ The goal of this project  is to create an image classifier that will accurately 
 is influenced by. This would be very useful to any professionals in the real estate market who are looking to either label or search for property programmatically.
 
 
-# Data Set:  ‘ Architectural Style Classification using MLLR ’. It contains measurements from 25 architecture styles for 5000 buildings.
-URL: ‘ Architectural Style Classification using MLLR ’.
+# Data Set:  
+Architectural Style Classification using MLLR. It contains measurements from 25 architecture styles for 5000 buildings.
+URL: https://sites.google.com/site/zhexuutssjtu/projects/arch
 
 File size :  782 MB Format of data file: images
 This dataset contains 25 folders which represent the 25 classes of  architecture styles:
